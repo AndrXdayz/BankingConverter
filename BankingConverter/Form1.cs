@@ -112,8 +112,8 @@ namespace BankingConverter
                     using(StreamWriter file = File.CreateText(ServerProfilesFolderDir + @"\KR_BANKING\PlayerDataBase\" + JsonMeta.m_PlainID + ".json"))
                     {
                         JsonSerializer serializer = new JsonSerializer();
-                        serializer.Serialize(file, AdvJsonObject);
                         serializer.Formatting = Formatting.Indented;
+                        serializer.Serialize(file, AdvJsonObject);
                     }
                 }
 

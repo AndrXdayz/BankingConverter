@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\bin\Release\BankingConverter.exe.config
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\bin\Release\BankingConverter.exe
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\bin\Release\BankingConverter.pdb
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.Form1.resources
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.Properties.Resources.resources
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.csproj.CopyComplete
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.exe
+C:\Users\Andre\source\repos\BankingConverter\BankingConverter\obj\Release\BankingConverter.pdb
